@@ -1,0 +1,12 @@
+package org.cours;
+
+import javax.inject.Named;
+
+
+@Named
+public class EtudiantBean {
+
+	@EJB
+	private EtudiantFace etudiantFace;
+	
+}

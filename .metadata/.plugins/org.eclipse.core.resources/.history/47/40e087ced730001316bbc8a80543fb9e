@@ -1,0 +1,8 @@
+package org.cours;
+
+
+@Name
+public class EtudiantBean {
+
+	
+}

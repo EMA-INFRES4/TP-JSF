@@ -1,0 +1,6 @@
+package org.cours;
+
+@EntityManager
+public class EtudiantFace {
+
+}

@@ -1,0 +1,16 @@
+package org.cours;
+
+import javax.persistence.Entity;
+
+import org.jboss.logging.Logger;
+
+
+@Entity
+public class Etudiant {
+	
+	private int id;
+	private String nom;
+	private String prenom;
+	private String specialite;
+
+}

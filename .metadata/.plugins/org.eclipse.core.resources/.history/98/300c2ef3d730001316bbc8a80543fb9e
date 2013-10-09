@@ -1,0 +1,15 @@
+package org.cours;
+
+import javax.ejb.EJB;
+import javax.inject.Named;
+
+import cours.ema.EtudiantFace;
+
+
+@Nameds
+public class EtudiantBean {
+
+	@EJB
+	private EtudiantFace etudiantFace;
+	
+}

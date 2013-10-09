@@ -1,0 +1,1 @@
+insert into Etudiants(nom,prenom,specialite) VALUES ("Fabien","Dugast","java");

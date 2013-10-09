@@ -1,0 +1,1 @@
+insert into Etudiant(id,nom,prenom,specialite) VALUES (2,'Fabien','Dugast','java');

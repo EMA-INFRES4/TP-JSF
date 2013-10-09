@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+C:\Users\Fabien\JSF\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3757064209.index
+955375393.index
+2534322048.index
+4250390415.index
+3660879439.index
+137667230.index
