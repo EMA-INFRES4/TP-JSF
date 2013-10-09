@@ -20,7 +20,4 @@ public class EtudiantBean {
 		return etudiantFace.findall();
 	}
 	
-	public void supprimeEtudiant(Etudiant etudiant) {
-		etudiantFace.Delete(etudiant);
-	}
 }

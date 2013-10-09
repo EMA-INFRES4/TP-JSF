@@ -42,12 +42,18 @@
  					<f:facet name="header">Supprimer</f:facet>
     				<h:form>
    						 <h:commandButton value="supprime etudiant"
-                   		  action="#{etudiantBean.supprimeEtudiant(e)}"/>
-					</h:form>	
+                   		  action="#{etudiant.supprimeEtudiant(:e)}" />
+							</h:form>	
  				</h:column>
     		</h:dataTable>
 		</ui:define>
 	</ui:composition>
+	<h:form>
+    <h:commandButton value="supprime etudiant"
+                     action="#{etudiant.supprimeEtudiant()}" />
+</h:form>	
+
+	
 </body>
 
 </html>

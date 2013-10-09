@@ -25,7 +25,7 @@
     			</h:column>
  
     			<h:column>
-    				<f:facet name="header">Name</f:facet>
+    				<f:facet name="header">Product Name</f:facet>
     				#{e.nom}
     			</h:column>
  
@@ -38,16 +38,13 @@
     				<f:facet name="header">Specialite</f:facet>
     				#{e.specialite}
     			</h:column>
- 				<h:column>
- 					<f:facet name="header">Supprimer</f:facet>
-    				<h:form>
-   						 <h:commandButton value="supprime etudiant"
-                   		  action="#{etudiantBean.supprimeEtudiant(e)}"/>
-					</h:form>	
- 				</h:column>
+ 
     		</h:dataTable>
 		</ui:define>
 	</ui:composition>
+		
+
+	
 </body>
 
 </html>

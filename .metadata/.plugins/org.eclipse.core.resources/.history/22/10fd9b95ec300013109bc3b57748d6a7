@@ -21,6 +21,6 @@ public class EtudiantBean {
 	}
 	
 	public void supprimeEtudiant(Etudiant etudiant) {
-		etudiantFace.Delete(etudiant);
+		return etudiantFace.Delete(etudiant);
 	}
 }

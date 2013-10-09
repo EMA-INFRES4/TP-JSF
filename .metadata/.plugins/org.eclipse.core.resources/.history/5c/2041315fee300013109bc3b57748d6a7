@@ -48,6 +48,10 @@
     		</h:dataTable>
 		</ui:define>
 	</ui:composition>
+	<h:form>
+   
+
+	
 </body>
 
 </html>
