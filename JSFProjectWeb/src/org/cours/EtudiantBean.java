@@ -2,17 +2,30 @@ package org.cours;
 
 import java.util.List;
 
+import javax.annotation.PostConstruct;
 import javax.ejb.EJB;
-import javax.faces.bean.ManagedBean;
+
+
+import javax.faces.bean.SessionScoped;
 import javax.inject.Named;
 
 import cours.ema.Etudiant;
 import cours.ema.EtudiantFace;
 
-
+@SessionScoped
 @Named
 public class EtudiantBean {
 
+	private Etudiant etudiant;
+	
+	@PostConstruct
+	public void init() {
+		this.etudiant = new Etudiant();
+	}
+
+	public Etudiant getEtudiant() {
+		return this.etudiant;
+	}
 	@EJB
 	private EtudiantFace etudiantFace;
 	
@@ -22,5 +35,15 @@ public class EtudiantBean {
 	
 	public void supprimeEtudiant(Etudiant etudiant) {
 		etudiantFace.Delete(etudiant);
+	}
+
+	public void createEtudiant() {
+		etudiantFace.createStudent(this.etudiant);
+	}
+
+	public String updateEtudiant(Etudiant etudiant) {
+		this.etudiant = etudiant;
+		etudiantFace.updateStudent(this.etudiant);
+		return "ok";
 	}
 }

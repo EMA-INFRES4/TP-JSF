@@ -31,5 +31,13 @@ public class EtudiantFace {
 		int result = query.executeUpdate();
 	}
 
+	public void createStudent(Etudiant etudiant) {
+		etudiant = this.em.merge(etudiant);
+		this.em.persist(etudiant);
+	}
+
+	public void updateStudent(Etudiant etudiant) {
+		etudiant = this.em.merge(etudiant);
+	}
 	
 }

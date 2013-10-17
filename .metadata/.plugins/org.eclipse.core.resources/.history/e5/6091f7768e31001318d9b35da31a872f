@@ -1,0 +1,61 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:ui="http://java.sun.com/jsf/facelets"
+    xmlns:h="http://java.sun.com/jsf/html"
+    xmlns:f="http://java.sun.com/jsf/core"
+    xmlns:test="http://example.com/test">
+     
+        
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+  	<title>Etudiant</title>
+</head>
+
+<body>
+	<ui:composition template="/template.xhtml">
+		<ui:define name="body">
+			<h:link value="formulaire d'inscription" outcome="form" />
+			<h:dataTable value="#{etudiantBean.findAllEtudiants()}" var="e">
+    			<h:column>
+    				<!-- column header -->
+    				<f:facet name="header">ID</f:facet>
+    				<!-- row record -->
+    				#{e.id}
+    			</h:column>
+ 
+    			<h:column>
+    				<f:facet name="header">Name</f:facet>
+    				#{e.nom}
+    			</h:column>
+ 
+    			<h:column>
+    				<f:facet name="header">Prenom</f:facet>
+    				#{e.prenom}
+    			</h:column>
+ 
+    			<h:column>
+    				<f:facet name="header">Specialite</f:facet>
+    				#{e.specialite}
+    			</h:column>
+ 				<h:column>
+ 					<f:facet name="header">Supprimer</f:facet>
+    				<h:form>
+   						 <h:commandButton value="supprime etudiant"
+                   		  action="#{etudiantBean.supprimeEtudiant(e)}"/>
+					</h:form>	
+ 				</h:column>
+ 				<h:column>
+ 					<f:facet name="header">Modifier</f:facet>
+    				<h:form>
+   						 <h:commandButton value="modifier"
+                   		  action="#{etudiantBean.supprimeEtudiant(e)}"/>
+					</h:form>	
+ 				</h:column>
+    		</h:dataTable>
+		</ui:define>
+	</ui:composition>
+</body>
+
+</html>

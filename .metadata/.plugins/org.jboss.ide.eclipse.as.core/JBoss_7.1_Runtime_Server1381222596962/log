@@ -1037,3 +1037,541 @@ Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.
 
 !ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-10-09 16:25:57.320
 !MESSAGE Module JSFProject on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-10-09 16:28:05.777
+!MESSAGE Server processes have been terminated.
+!SESSION 2013-10-10 08:50:59.432 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 09:59:17.754
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 09:59:17.916
+!MESSAGE 4 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 09:59:17.938
+!MESSAGE 1 files modified in module JSFProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-10-10 09:59:21.128
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-10-10 09:59:40.112
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 09:59:40.124
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 09:59:40.221
+!MESSAGE Module JSFProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 09:59:40.333
+!MESSAGE Module JSFProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:00:14.858
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:00:14.928
+!MESSAGE Module JSFProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:00:14.979
+!MESSAGE Module JSFProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-10-10 10:01:15.076
+!MESSAGE Server processes have been terminated.
+
+!ENTRY unknown 0 0 2013-10-10 10:01:27.000
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-10-10 10:01:27.016
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-10-10 10:01:27.034
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-10-10 10:01:28.493
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-10-10 10:01:35.223
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:01:57.404
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:01:57.473
+!MESSAGE Module JSFProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:01:57.521
+!MESSAGE Module JSFProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-10-10 10:01:58.116
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-10-10 10:01:58.891
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-10-10 10:02:00.288
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-10-10 10:02:07.101
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-10-10 10:02:08.609
+!MESSAGE Module JSFProject on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2013-10-10 10:02:29.224
+!MESSAGE Module JSFProject on JBoss 7.1 Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:02:53.338
+!MESSAGE 2 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-10-10 10:03:00.054
+!MESSAGE Server processes have been terminated.
+
+!ENTRY unknown 0 0 2013-10-10 10:03:11.797
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-10-10 10:03:11.814
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-10-10 10:03:11.830
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-10-10 10:03:13.266
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-10-10 10:03:19.911
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:03:37.982
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:03:38.087
+!MESSAGE Module JSFProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:03:38.140
+!MESSAGE Module JSFProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-10-10 10:03:38.358
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-10-10 10:03:39.132
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-10-10 10:03:40.494
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-10-10 10:03:47.204
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-10-10 10:03:48.480
+!MESSAGE Module JSFProject on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:06:22.797
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:06:42.097
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:07:35.436
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:07:48.099
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:08:41.502
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:10:06.166
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:11:43.580
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:11:43.641
+!MESSAGE Module JSFProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:11:43.682
+!MESSAGE Module JSFProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:14:05.836
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:14:27.340
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:14:30.546
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:14:36.068
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:14:43.211
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:14:53.443
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:14:53.512
+!MESSAGE Module JSFProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:14:53.558
+!MESSAGE Module JSFProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:17:07.218
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:17:14.517
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:17:14.589
+!MESSAGE Module JSFProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:17:14.633
+!MESSAGE Module JSFProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:18:30.501
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:18:35.831
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:18:35.901
+!MESSAGE Module JSFProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:18:35.948
+!MESSAGE Module JSFProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:19:11.803
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:19:17.053
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:19:17.133
+!MESSAGE Module JSFProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:19:17.177
+!MESSAGE Module JSFProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:19:49.348
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:19:52.218
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:19:52.299
+!MESSAGE Module JSFProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:19:52.346
+!MESSAGE Module JSFProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:22:49.350
+!MESSAGE 1 files modified in module JSFProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:22:50.530
+!MESSAGE 1 files modified in module JSFProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:22:56.159
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:22:56.235
+!MESSAGE Module JSFProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:22:56.286
+!MESSAGE Module JSFProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:23:58.114
+!MESSAGE 1 files modified in module JSFProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-10-10 10:24:04.974
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:24:15.543
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:24:15.654
+!MESSAGE Module JSFProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:24:15.702
+!MESSAGE Module JSFProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-10-10 10:24:22.505
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-10-10 10:24:29.524
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-10-10 10:24:30.902
+!MESSAGE Module JSFProject on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:48:29.941
+!MESSAGE 1 files modified in module JSFProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 10:57:29.064
+!MESSAGE 1 files modified in module JSFProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:01:51.780
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-10-10 11:01:52.763
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:17:23.166
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:17:23.240
+!MESSAGE Module JSFProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:17:23.284
+!MESSAGE Module JSFProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-10-10 11:17:31.061
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-10-10 11:17:38.172
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-10-10 11:17:39.749
+!MESSAGE Module JSFProject on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:18:27.981
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:18:38.596
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:18:44.225
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:18:44.304
+!MESSAGE Module JSFProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:18:44.354
+!MESSAGE Module JSFProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:18:58.487
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:19:14.108
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:19:14.184
+!MESSAGE Module JSFProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:19:14.233
+!MESSAGE Module JSFProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:20:04.513
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:20:08.782
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:20:12.920
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:20:12.996
+!MESSAGE Module JSFProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:20:13.049
+!MESSAGE Module JSFProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:20:46.355
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-10-10 11:20:47.137
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-10-10 11:20:53.881
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-10-10 11:21:00.489
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:21:09.289
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:21:09.364
+!MESSAGE Module JSFProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:21:09.411
+!MESSAGE Module JSFProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-10-10 11:21:36.370
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-10-10 11:21:37.196
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-10-10 11:21:38.586
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-10-10 11:21:45.707
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-10-10 11:21:46.952
+!MESSAGE Module JSFProject on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-10-10 11:22:28.564
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:30:17.715
+!MESSAGE 4 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:30:17.736
+!MESSAGE 1 files modified in module JSFProjectEJB
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-10-10 11:30:19.096
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-10-10 11:30:26.039
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:31:01.182
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:31:01.259
+!MESSAGE Module JSFProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:31:01.300
+!MESSAGE Module JSFProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-10-10 11:32:10.556
+!MESSAGE Server processes have been terminated.
+
+!ENTRY unknown 0 0 2013-10-10 11:32:18.690
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-10-10 11:32:18.706
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-10-10 11:32:18.721
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-10-10 11:32:20.125
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-10-10 11:32:26.936
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-10-10 11:32:34.867
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-10-10 11:32:35.644
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:32:35.662
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:32:35.754
+!MESSAGE Module JSFProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:32:35.802
+!MESSAGE Module JSFProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-10-10 11:32:37.141
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-10-10 11:32:43.851
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-10-10 11:32:44.897
+!MESSAGE Module JSFProject on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2013-10-10 11:33:05.545
+!MESSAGE Module JSFProject on JBoss 7.1 Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:33:55.043
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:33:58.394
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:33:58.491
+!MESSAGE Module JSFProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:33:58.538
+!MESSAGE Module JSFProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:34:41.595
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:34:44.573
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:34:44.647
+!MESSAGE Module JSFProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:34:44.693
+!MESSAGE Module JSFProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:35:21.359
+!MESSAGE 2 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:35:25.089
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:35:25.162
+!MESSAGE Module JSFProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:35:25.213
+!MESSAGE Module JSFProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:36:07.676
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:36:24.713
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-10-10 11:36:25.058
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:37:02.019
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:37:02.099
+!MESSAGE Module JSFProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:37:02.150
+!MESSAGE Module JSFProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:37:18.620
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:37:18.703
+!MESSAGE Module JSFProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:37:18.753
+!MESSAGE Module JSFProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-10-10 11:37:25.319
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-10-10 11:37:32.337
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-10-10 11:37:33.700
+!MESSAGE Module JSFProject on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:38:43.945
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:38:48.218
+!MESSAGE 1 files modified in module JSFProjectWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:38:52.276
+!MESSAGE Module JSFProject published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:38:52.355
+!MESSAGE Module JSFProjectWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-10-10 11:38:52.406
+!MESSAGE Module JSFProjectEJB published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-10-10 11:44:02.326
+!MESSAGE Server processes have been terminated.
